@@ -1,1 +1,1 @@
-# landmark-classification-cnn
+Landmark classification using custom cnn architecture and resnet
