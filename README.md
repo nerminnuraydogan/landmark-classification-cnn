@@ -1,1 +1,1 @@
-Landmark classification using custom cnn architecture and resnet
+Landmark classification using custom cnn architecture and resnet18 with PyTorch
